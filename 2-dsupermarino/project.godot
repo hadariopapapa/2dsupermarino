@@ -12,6 +12,7 @@ config_version=5
 
 config/name="2dsupermarino"
 config/features=PackedStringArray("4.5", "Mobile")
+config/icon="uid://br31p8hnfqu5c"
 
 [display]
 
